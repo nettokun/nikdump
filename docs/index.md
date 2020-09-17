@@ -2,7 +2,7 @@
 
 This program dumps decrypted files. It is solely meant for personal enjoyment.
 
-[Get it here.](nikdump.exe)
+[Get it here.](https://github.com/nettokun/nikdump/releases/latest)
 
 ## Usage
 
