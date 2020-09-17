@@ -9,4 +9,4 @@ This program dumps decrypted files. It is solely meant for personal enjoyment.
 Windows: Drop a folder or file onto the executable.
 
 Terminal:
-`<executable> <inputs...> [outputDirectory]`
+`<executable> <inputs...> [-o/--output outputDirectory]`
